@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaheralyousef
+- 👋 Hi, I’m Zaher Alyousef
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning .Net and Cloud
 - 💞️ I’m looking to collaborate on ...
