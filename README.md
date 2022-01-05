@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zaher Alyousef
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning .Net and Cloud
+- 👀 I’m a Software Engineer, MSc, Full-stack developer.
+- 🌱 Currently focusing on .Net, JavaScript, and Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/zaheralyousef/
 
