@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zaher Alyousef
 - 👀 I’m a Software Engineer, MSc, Full-stack developer.
-- 🌱 Currently focusing on .Net, JavaScript, and Cloud
+- 🌱 Currently focusing on native-cloud development with GCP and (ReactJs, Java, C#, JavaScript)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/zaheralyousef/
 
